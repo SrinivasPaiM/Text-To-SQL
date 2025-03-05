@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+pandas
+plotly
+accelerate>=0.26.0
