@@ -1,14 +1,9 @@
----
-title: Text To SQL
-emoji: ⚡
-colorFrom: blue
-colorTo: red
-sdk: streamlit
-sdk_version: 1.42.2
-app_file: app.py
-pinned: false
-license: mit
-short_description: 'Turns natural language to sql queries with visualization '
----
+# Text-to-SQL
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## Overview
+Text-to-SQL is a program that allows users to convert natural language queries into SQL commands. This makes it easier for users to interact with databases without needing to write SQL manually.
+
+Simply enter your query in plain English, and the program will generate the corresponding SQL statement.
+
+Check it out here: [Text-to-SQL on Hugging Face](https://huggingface.co/spaces/Shodnotantelope2/Text-to-SQL)
+
